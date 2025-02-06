@@ -44,10 +44,10 @@
   <a href="https://www.linkedin.com/in/matheus-menger-da-silva-20a3a0246/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
   </a>
-  <a href="matheus-menger@gmail.com" target="_blank">
+  <a href="mailto:matheus-menger@gmail.com?subject=Ol%C3%A1,+Matheus,+vi+seu+perfil+no+GitHub!&body=Ol%C3%A1,+Matheus,+vim+atrav%C3%A9s+do+link+do+seu+GitHub!" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
   </a>
-  <a href="matheus-menger@outlook.com" target="_blank">
+  <a href="mailto:matheus-menger@outlook.com?subject=Ol%C3%A1,+Matheus,+vi+seu+perfil+no+GitHub!&body=Ol%C3%A1,+Matheus,+vim+atrav%C3%A9s+do+link+do+seu+GitHub!" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://www.instagram.com/menger.m/" target="_blank">
