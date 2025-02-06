@@ -63,8 +63,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/M-Menger/M-Menger/output/snake.svg" alt="Snake animation" />
 
 ###
